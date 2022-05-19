@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create parking slots 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-grid",
+      "textAlign": "center",
+    }
+  }
+>
+  <h2>
+    Create Prackings
+  </h2>
+  <div
+    className="MuiFormControl-root MuiTextField-root css-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+  >
+    <label
+      className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+      data-shrink={false}
+      htmlFor="outlined-basic"
+      id="outlined-basic-label"
+    >
+      Number of parking lot
+    </label>
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="outlined-basic"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="number"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-1ftyaf0"
+        >
+          <span>
+            Number of parking lot
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <button
+    className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+    data-test-id="btn-create"
+    disabled={true}
+    onBlur={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    style={
+      Object {
+        "background": "#acbfe0",
+        "color": "black",
+        "marginTop": 15,
+      }
+    }
+    tabIndex={-1}
+    type="button"
+  >
+    Submit
+  </button>
+</div>
+`;
+
+exports[`test snap-shot  1`] = `
+<div
+  style={
+    Object {
+      "display": "inline-grid",
+      "textAlign": "center",
+    }
+  }
+>
+  <h2>
+    Create Prackings
+  </h2>
+  <div
+    className="MuiFormControl-root MuiTextField-root css-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+  >
+    <label
+      className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+      data-shrink={false}
+      htmlFor="outlined-basic"
+      id="outlined-basic-label"
+    >
+      Number of parking lot
+    </label>
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="outlined-basic"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="number"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-1ftyaf0"
+        >
+          <span>
+            Number of parking lot
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+  <button
+    className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+    data-test-id="btn-create"
+    disabled={true}
+    onBlur={[Function]}
+    onContextMenu={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    style={
+      Object {
+        "background": "#acbfe0",
+        "color": "black",
+        "marginTop": 15,
+      }
+    }
+    tabIndex={-1}
+    type="button"
+  >
+    Submit
+  </button>
+</div>
+`;

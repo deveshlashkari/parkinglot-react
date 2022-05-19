@@ -1,0 +1,1 @@
+export const SLOT_LIMIT = /^[0-9]{3}$/
